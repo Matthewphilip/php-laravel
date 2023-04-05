@@ -1,3 +1,3 @@
 # php-laravel
 
-test
+Laravel skills refresh
